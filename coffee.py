@@ -4,7 +4,6 @@ import numpy as np
 import random
 
 participants = [
-  "Andrew",
   "Amit",
   "Sam",
   "Theano",
@@ -14,7 +13,7 @@ participants = [
   "Natalie",
   #"Khiem",
   "Zhenyu",
-  "Ashwini",
+  #"Ashwini",
   "David",
   #"Dongsheng",
   "Nan",
