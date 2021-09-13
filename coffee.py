@@ -5,12 +5,15 @@ import random
 
 participants = [
   #"Amit",
+  "Neil",
+  "Jennifer",
   "Sam",
   #"Theano",
   "Jianan",
   "Jeff",
   "Anja",
   "Nick",
+  "Shai",
   #"Natalie",
   #"Khiem",
   #"Zhenyu",
