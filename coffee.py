@@ -6,7 +6,7 @@ import random
 participants = [
   #"Amit",
   "Neil",
-  "Mike",
+  "Mike W.",
   "Jennifer",
   "Sam",
   #"Theano",
