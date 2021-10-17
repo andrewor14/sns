@@ -26,7 +26,7 @@ participants = [
   "Yue",
   #"Chris",
   "Jennifer",
-  "Yushan"
+  #"Yushan"
 ]
 
 group_size = 3
