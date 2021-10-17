@@ -17,7 +17,7 @@ participants = [
   "Shai",
   #"Natalie",
   #"Khiem",
-  #"Zhenyu",
+  "Zhenyu",
   #"Ashwini",
   "David",
   #"Dongsheng",
@@ -25,7 +25,7 @@ participants = [
   #"Wyatt",
   "Yue",
   #"Chris",
-  #"Jennifer",
+  "Jennifer",
   "Yushan"
 ]
 
