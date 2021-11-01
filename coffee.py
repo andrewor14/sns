@@ -7,7 +7,6 @@ participants = [
   #"Amit",
   "Neil",
   "Mike W.",
-  "Jennifer",
   "Sam",
   #"Theano",
   "Jianan",
