@@ -14,7 +14,7 @@ participants = [
   "Anja",
   "Nick",
   "Shai",
-  #"Natalie",
+  "Natalie",
   #"Khiem",
   "Zhenyu",
   #"Ashwini",
