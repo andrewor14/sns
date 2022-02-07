@@ -9,7 +9,7 @@ participants = [
   "Mike W.",
   "Sam",
   "Theano",
-  "Jianan",
+  #"Jianan",
   "Jeff",
   "Anja",
   "Nick",
