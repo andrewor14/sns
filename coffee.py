@@ -8,7 +8,7 @@ participants = [
   "Neil",
   "Mike W.",
   #"Sam",
-  "Theano",
+  #"Theano",
   "Jianan",
   "Jeff",
   "Anja",
