@@ -11,7 +11,7 @@ participants = [
   #"Theano",
   "Jianan",
   "Jeff",
-  "Anja",
+  #"Anja",
   "Nick",
   "Shai",
   "Natalie",
