@@ -24,7 +24,7 @@ participants = [
   #"Wyatt",
   "Yue",
   #"Chris",
-  #"Jennifer",
+  "Jennifer",
   #"Yushan"
 ]
 
