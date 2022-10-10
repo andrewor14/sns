@@ -18,7 +18,7 @@ participants = [
   #"Khiem",
   #"Zhenyu",
   #"Ashwini",
-  "David",
+  #"David",
   #"Dongsheng",
   "Nan",
   #"Wyatt",
