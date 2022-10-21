@@ -30,6 +30,7 @@ participants = [
   "Jennifer",
   #"Yushan",
   "Gongqi H.",
+  "Rui P.",
 ]
 
 group_size = 3
