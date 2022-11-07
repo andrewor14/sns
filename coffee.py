@@ -25,7 +25,7 @@ participants = [
   "Yue",
   "Jingyuan C.",
   "Leon S.",
-  "Chris H.",
+  #"Chris H.",
   "Chris A.",
   "Jennifer",
   #"Yushan",
