@@ -23,7 +23,7 @@ participants = [
   "Nan",
   #"Wyatt",
   "Yue",
-  "Jingyuan C.",
+  #"Jingyuan C.",
   "Leon S.",
   #"Chris H.",
   "Chris A.",
